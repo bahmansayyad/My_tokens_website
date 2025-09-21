@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IRANOIL & OIL TOKEN</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f5f5f7; margin:0; padding:0; }
+    header { background: #1e3a8a; color: #fff; padding: 30px; text-align: center; }
+    header h1 { margin:0; font-size: 2rem; }
+    .container { display: flex; flex-wrap: wrap; justify-content: center; padding: 40px 20px; gap: 30px; }
+    .token-card, .roadmap-card { background: #fff; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); padding: 20px; width: 300px; text-align: center; }
+    .token-card img { max-width: 120px; margin-bottom: 15px; }
+    .token-card h2, .roadmap-card h2 { color: #1e3a8a; margin-bottom: 10px; }
+    .token-card p, .roadmap-card p { color: #555; font-size: 14px; margin-bottom: 8px; text-align: left; }
+    .links a { color: #1e3a8a; text-decoration: none; margin: 0 5px; font-weight: bold; }
+    .links a:hover { text-decoration: underline; }
+    .roadmap-card ul { text-align: left; padding-left: 20px; }
+    h3 { color: #1e3a8a; margin-bottom: 5px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>IRANOIL & OIL TOKEN</h1>
+  </header>
+  
+  <div class="container">
+    <!-- IRANOIL Token -->
+    <div class="token-card">
+      <img src="https://i.postimg.cc/bJ7mCD5Z/file-000000000c0c6243b9263765619cddcb-2.png" alt="IRANOIL Logo">
+      <h2>IRANOIL (IROILTOKEN)</h2>
+      <p><strong>Network:</strong> TON</p>
+      <p><strong>Total Supply:</strong> 20,000,000,000</p>
+      <p>IRANOIL and OIL TOKEN are TON-based utility tokens crafted for fast, secure, and transparent Web3 transactions. Representing digital oil assets, they offer a limited supply with real-world value, designed for seamless trading, investment, and global accessibility.</p>
+      <div class="links">
+        <a href="https://iranoil.org" target="_blank">Website</a> | 
+        <a href="https://t.me/IRANOILofficial" target="_blank">Telegram</a> | 
+        <a href="https://tonscan.org/address/EQBUTf9DfUKJZTxOtU4qBj-r82M-Tpx85MsWl2cyzo7EF5Ed" target="_blank">Explorer</a>
+      </div>
+    </div>
+
+    <!-- IRANOIL Roadmap -->
+    <div class="roadmap-card">
+      <h2>IRANOIL Roadmap</h2>
+      <h3>Q3 2025 – Launch & Awareness</h3>
+      <ul>
+        <li>Token deployment on TON</li>
+        <li>Website launch & social media presence</li>
+        <li>Initial community building</li>
+      </ul>
+      <h3>Q4 2025 – Ecosystem Integration</h3>
+      <ul>
+        <li>Integration with TON wallets</li>
+        <li>Listing on decentralized exchanges (DEX)</li>
+        <li>Strategic partnerships for energy-related projects</li>
+      </ul>
+      <h3>Q1 2026 – Expansion & Utility</h3>
+      <ul>
+        <li>Launch of staking and rewards programs</li>
+        <li>Community-driven governance proposals</li>
+        <li>Expansion of use cases within Web3 energy ecosystem</li>
+      </ul>
+      <h3>Q2 2026 – Global Reach</h3>
+      <ul>
+        <li>Marketing campaigns targeting global investors</li>
+        <li>Participation in blockchain and energy conferences</li>
+        <li>Continuous ecosystem growth and adoption</li>
+      </ul>
+    </div>
+
+    <!-- OIL Token -->
+    <div class="token-card">
+      <img src="https://i.postimg.cc/bJ7mCD5Z/file-000000000c0c6243b9263765619cddcb-2.png" alt="OIL Logo">
+      <h2>OIL TOKEN</h2>
+      <p><strong>Network:</strong> TON</p>
+      <p><strong>Total Supply:</strong> 10,000,000,000</p>
+      <p>IRANOIL and OIL TOKEN are TON-based utility tokens crafted for fast, secure, and transparent Web3 transactions. Representing digital oil assets, they offer a limited supply with real-world value, designed for seamless trading, investment, and global accessibility.</p>
+      <div class="links">
+        <a href="https://t.me/oilofficial" target="_blank">Telegram</a>
+      </div>
+    </div>
+
+    <!-- OIL Roadmap -->
+    <div class="roadmap-card">
+      <h2>OIL TOKEN Roadmap</h2>
+      <h3>Q3 2025 – Launch & Awareness</h3>
+      <ul>
+        <li>Token deployment on TON</li>
+        <li>Website launch & Telegram community setup</li>
+        <li>Initial education about digital oil assets</li>
+      </ul>
+      <h3>Q4 2025 – Trading & Partnerships</h3>
+      <ul>
+        <li>Listing on TON-based DEX platforms</li>
+        <li>Partnerships with digital trading platforms</li>
+        <li>Marketing campaigns for oil token adoption</li>
+      </ul>
+      <h3>Q1 2026 – Utility & Engagement</h3>
+      <ul>
+        <li>Integration with payment and trading apps</li>
+        <li>Rewards for holders and liquidity providers</li>
+        <li>Community voting on token use cases</li>
+      </ul>
+      <h3>Q2 2026 – Expansion & Global Access</h3>
+      <ul>
+        <li>Cross-border trading opportunities</li>
+        <li>Participation in global digital asset events</li>
+        <li>Continuous improvement of token utility and ecosystem</li>
+      </ul>
+    </div>
+
+  </div>
+</body>
+</html>
