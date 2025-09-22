@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>OIL — Roadmap</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;background:#f7f8fb;color:#111;line-height:1.6;padding:20px}
+  .card{max-width:900px;margin:20px auto;background:#fff;border-radius:12px;box-shadow:0 6px 18px rgba(20,30,60,0.08);padding:20px}
+  h1{margin-top:0;font-size:24px}
+  p.lead{color:#555}
+  .step{border-left:3px solid #0b6efd;padding:10px 14px;margin:12px 0;background:#fbfdff;border-radius:6px}
+  .step h3{margin:0 0 6px;font-size:16px}
+  footer{font-size:12px;color:#888;text-align:center;margin-top:20px}
+</style>
+</head>
+<body>
+  <div class="card">
+    <h1>Roadmap — OIL</h1>
+    <p class="lead">OIL is a utility token on the TON blockchain. Below is the project roadmap.</p>
+
+    <div class="step">
+      <h3>Phase 0 — Launch</h3>
+      <p>Deploy Jetton contract, publish metadata on GitHub, list in TON wallets, and provide initial DEX liquidity.</p>
+    </div>
+
+    <div class="step">
+      <h3>Phase 1 — Accessibility</h3>
+      <p>List on major TON DEX platforms, activate community channels, attract early holders and run AMA sessions.</p>
+    </div>
+
+    <div class="step">
+      <h3>Phase 2 — Adoption</h3>
+      <p>Seek partnerships with Web3 projects, integrate OIL into small services, and build simple payment tools.</p>
+    </div>
+
+    <div class="step">
+      <h3>Phase 3 — Expansion</h3>
+      <p>Strengthen liquidity, apply for CEX listings once community is strong, and complete smart contract audits.</p>
+    </div>
+
+    <footer>Community: https://t.me/IRANOILofficial</footer>
+  </div>
+</body>
+</html>
