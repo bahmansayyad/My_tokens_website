@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>IRANOIL — Roadmap</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;background:#fff7f6;color:#111;line-height:1.6;padding:20px}
+  .card{max-width:900px;margin:20px auto;background:#fff;border-radius:12px;box-shadow:0 6px 18px rgba(30,15,10,0.06);padding:20px}
+  h1{margin-top:0;font-size:24px;color:#b33}
+  p.lead{color:#555}
+  .step{border-left:3px solid #d9534f;padding:10px 14px;margin:12px 0;background:#fff6f6;border-radius:6px}
+  .step h3{margin:0 0 6px;font-size:16px}
+  footer{font-size:12px;color:#888;text-align:center;margin-top:20px}
+</style>
+</head>
+<body>
+  <div class="card">
+    <h1>Roadmap — IRANOIL</h1>
+    <p class="lead">IRANOIL is a utility token on the TON blockchain inspired by the value of crude oil.</p>
+
+    <div class="step">
+      <h3>Stage 1 — Deployment</h3>
+      <p>Deploy Jetton contract, publish metadata, and add liquidity to TON DEX for trading availability.</p>
+    </div>
+
+    <div class="step">
+      <h3>Stage 2 — Community Growth</h3>
+      <p>Expand Telegram and social channels, attract new members, publish docs, and answer holder questions.</p>
+    </div>
+
+    <div class="step">
+      <h3>Stage 3 — Security & Transparency</h3>
+      <p>Request contract audits, publish reports, and improve transparency in token distribution and treasury.</p>
+    </div>
+
+    <div class="step">
+      <h3>Stage 4 — Utility Development</h3>
+      <p>Explore payment use-cases, rewards, and small Web3 integrations to expand IRANOIL usage.</p>
+    </div>
+
+    <footer>Community: https://t.me/IRANOILofficial</footer>
+  </div>
+</body>
+</html>
